@@ -1,0 +1,10 @@
+{
+  "name": "css-jss-loader",
+  "version": "0.0.1",
+  "author": "Denis Iogansen @pofigizm",
+  "description": "css-jss loader module for webpack",
+  "license": "MIT",
+  "dependencies": {
+    "jss-cli": "^3.0.1"
+  }
+}
